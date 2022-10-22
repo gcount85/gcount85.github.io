@@ -29,10 +29,10 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               안녕하세요! 이은민의 포트폴리오입니다.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [개발자, 크래프톤정글]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
